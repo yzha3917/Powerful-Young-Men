@@ -28,7 +28,7 @@
 >用markdown形式写成教程，放到Github里面
 
 - GitBook: GitBook 教程
-> -如何将Github的教程推到GitBook  
+> - 如何将Github的教程推到GitBook  
 > - 过程中出现了什么问题？怎么解决的？  
 > - GitBook有没有什么特别的要求？  
 > - 如何添加评论模块？  
