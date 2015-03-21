@@ -38,11 +38,11 @@
 
 完成情况                       | yzha3917 | dudutang | cp4 | TonyYet | reinhartzzhang | xiaokechenchen | zxcbbn
 :-----:|:-----:|:-----:|:-----:|:----:|:-----:|:-----:|:------:
-注册网易云课堂                 | [x]      | [ ]      | [X] | [ X]     | [x]            | [ ]            | [x] 
-GitHub初始化                   | [x]      | [ ]      | [X] | [ X]     | [x]            | [ ]            | [x] 
+注册网易云课堂                 | [x]      | [ ]      | [X] | [X]     | [x]            | [ ]            | [x] 
+GitHub初始化                   | [x]      | [ ]      | [X] | [X]     | [x]            | [ ]            | [x] 
 GitHub与GitBook链接 + 发布图书 | [x]      | [ ]      | [x] | [X]     | [x]            | [ ]            | [ ] 
-say "Hello World"              | [x]      | [ ]      | [x] | [X ]     | [x]            | [ ]            | [x] 
-GitBook: markdown 教程         | [x]      | [ ]      | [ ] | [ ]     | [ ]            | [ ]            | [ ] 
+say "Hello World"              | [x]      | [ ]      | [x] | [X]     | [x]            | [ ]            | [x] 
+GitBook: markdown 教程         | [x]      | [ ]      | [] | [ ]     | [ ]            | [ ]            | [ ] 
 mailling-list 教程             | [ ]      | [ ]      | [ ] | [ ]     | [ ]            | [ ]            | [ ] 
 开学大典心得                   | [ ]      | [ ]      | [x] | [X ]     | [ ]            | [ ]            | [ ] 
 GitBook: GitHub教程            | [ ]      | [ ]      | [ ] | [ X]     | [ ]            | [ ]            | [ ] 
