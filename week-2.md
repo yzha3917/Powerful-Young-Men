@@ -5,6 +5,8 @@
 - 注册 [课程An Introduction to Interactive Programming in Python (Part 2)](https://www.coursera.org/course/interactivepython2)
 
 - 注册 [课程An Introduction to Interactive Programming in Python (Part 1)](https://www.coursera.org/course/interactivepython1)
+  >要注册2月份开学那个；我们要在接下来的4天内完成Part 1的课程，然后在27号直接进入Part 2的课程。
+
 
 这三项任务必须于2015年3月23日（周一）晚11点前完成
 ----------
