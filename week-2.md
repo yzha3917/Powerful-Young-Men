@@ -7,11 +7,14 @@
 - 注册 [课程An Introduction to Interactive Programming in Python (Part 1)](https://www.coursera.org/course/interactivepython1)
   >要注册2月份开学那个；我们要在接下来的4天内完成Part 1的课程，然后在27号直接进入Part 2的课程。
 
-- 及时完成 part1 的 "Week 2b - Buttons and input fields->Guess the number! (6:56)" 作业
-	1. 03月26号 12:12 前提交是死线
-	2. 03月25号 12:12 前提交是优秀
-	3. 03月24号 12:12 前提交是天才
-	4. 03月23号 12:12 前提交是作弊
+- 及时完成 part1 的 "Week 2b - Buttons and input fields->Guess the number! (6:56)" 作业  
+	* 完成 "Week 2b - Buttons and input fields->Guess the number! (6:56)" 以前的课程！  
+	* 需要提交的任务只有一个：把 Guess the number 的项目代码提交到到 私人图书仓库的 src/iippy-1 目录中。  
+	* 及时的定义：
+		1. 03月26号 12:12 前提交是死线  
+		2. 03月25号 12:12 前提交是优秀  
+		3. 03月24号 12:12 前提交是天才  
+		4. 03月23号 12:12 前提交是作弊  
 
 
 --------
