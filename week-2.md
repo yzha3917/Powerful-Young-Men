@@ -1,4 +1,4 @@
-	## Week 2
+## Week 2
 
 - 注册 [Coursera](https://www.coursera.org/login?post_redirect=https%3A%2F%2Fwww.coursera.org%2Faccount%2Flogout) 账户
 
