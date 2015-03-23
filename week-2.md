@@ -1,4 +1,4 @@
-## Week 2
+	## Week 2
 
 - 注册 [Coursera](https://www.coursera.org/login?post_redirect=https%3A%2F%2Fwww.coursera.org%2Faccount%2Flogout) 账户
 
@@ -14,6 +14,6 @@
 
 完成情况                       | yzha3917 | dudutang | cp4 | TonyYet | reinhartzzhang | xiaokechenchen | zxcbbn
 :-----:|:-----:|:-----:|:-----:|:----:|:-----:|:-----:|:------:
-注册 Coursera              | [x]      | []      | [] | [x]     | [x]            | [ ]            | [] 
-注册 课程（part 2）     | [x]      | []      | [] | [x]     | [x]            | [ ]            | [] 
-注册 课程  (part 1) | [x]      | []      | [] | [x]     | [x]      | []        | [] 
+注册 Coursera              | [x]      | []      | [] | [x]     | [x]            | [ ]            | [x] 
+注册 课程（part 2）     | [x]      | []      | [] | [x]     | [x]            | [ ]            | [x] 
+注册 课程  (part 1) | [x]      | []      | [] | [x]     | [x]      | []        | [x] 
