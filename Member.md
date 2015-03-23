@@ -4,6 +4,6 @@
 TangLinDu | dudutang | OS X |
 顾晨杰 | zxcbbn | OS X | 1438043361
 晓可 | xiaokechenchen | OS X | 
-王培炎 | cp4 | Ubuntu | 
+王培炎 | cp4 | Ubuntu | 122553903
 TonyYet | TonyYet | OS X | 
 张警吁 | reinhartzzhang | Windows | 
